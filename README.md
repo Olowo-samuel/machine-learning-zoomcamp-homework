@@ -1,3 +1,3 @@
 # machine-learning-zoomcamp-homework
 
-Hello World
+This repository will be used for every work and assignments as regards he machine learning zoomcamp
